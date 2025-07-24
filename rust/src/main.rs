@@ -208,5 +208,3 @@ fn main() -> bitcoincore_rpc::Result<()> {
 
     Ok(())
 }
-
-
